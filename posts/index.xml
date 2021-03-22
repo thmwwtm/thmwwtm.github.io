@@ -5,7 +5,19 @@
     <link>https://thmwwtm.github.io/posts/</link>
     <description>Recent content in Posts on The hungarian man who went to Malta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How this site is made</title>
+      <link>https://thmwwtm.github.io/posts/20210322_gohugo_ghpages/</link>
+      <pubDate>Mon, 22 Mar 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/posts/20210322_gohugo_ghpages/</guid>
+      <description>I wanted to try gohugo for a long time now, as I wanted to do more go stuff, even if it is just using it. Also, hugo has quite good benchmarks. (And luckily I need to use some go at work)
+Other points I wanted to fulfill:
+ use GitHub pages (static) use markdown for editing  and hugo is good for both.
+I wanted to use markdown because I like to write docs in md, and I don&amp;rsquo;t need an editor for that, I can do it on my phone, or any computer.</description>
+    </item>
+    
     <item>
       <title>Transportation part 2, the receiving end</title>
       <link>https://thmwwtm.github.io/posts/20210307_transport_part_2/</link>
