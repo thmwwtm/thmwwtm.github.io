@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automation on The hungarian man who went to Malta</title>
+    <link>https://thmwwtm.github.io/tags/automation/</link>
+    <description>Recent content in automation on The hungarian man who went to Malta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github actions from zero to this blog</title>
+      <link>https://thmwwtm.github.io/posts/20210327_github_actions/</link>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/posts/20210327_github_actions/</guid>
+      <description>I wanted to try Github actions since it got announced. Finally I had it on my foreseeable list when I started this blog, and lately, I did it. 👏 🎉🎆 I got to a working pipeline in 25 tries, lets go through each step how it improved piece by piece.
+ I started to work on it at night, thinking it would not take long. (hehe, famous last words). After around 20 failed runs, I went to sleep.</description>
+    </item>
+    
+  </channel>
+</rss>

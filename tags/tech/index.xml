@@ -5,7 +5,17 @@
     <link>https://thmwwtm.github.io/tags/tech/</link>
     <description>Recent content in tech on The hungarian man who went to Malta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github actions from zero to this blog</title>
+      <link>https://thmwwtm.github.io/posts/20210327_github_actions/</link>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/posts/20210327_github_actions/</guid>
+      <description>I wanted to try Github actions since it got announced. Finally I had it on my foreseeable list when I started this blog, and lately, I did it. 👏 🎉🎆 I got to a working pipeline in 25 tries, lets go through each step how it improved piece by piece.
+ I started to work on it at night, thinking it would not take long. (hehe, famous last words). After around 20 failed runs, I went to sleep.</description>
+    </item>
+    
     <item>
       <title>How this site is made</title>
       <link>https://thmwwtm.github.io/posts/20210322_gohugo_ghpages/</link>

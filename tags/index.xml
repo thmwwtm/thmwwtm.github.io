@@ -5,11 +5,20 @@
     <link>https://thmwwtm.github.io/tags/</link>
     <description>Recent content in Tags on The hungarian man who went to Malta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>automation</title>
+      <link>https://thmwwtm.github.io/tags/automation/</link>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>development</title>
       <link>https://thmwwtm.github.io/tags/development/</link>
-      <pubDate>Mon, 22 Mar 2021 09:02:00 +0200</pubDate>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
       
       <guid>https://thmwwtm.github.io/tags/development/</guid>
       <description></description>
@@ -18,9 +27,27 @@
     <item>
       <title>github</title>
       <link>https://thmwwtm.github.io/tags/github/</link>
-      <pubDate>Mon, 22 Mar 2021 09:02:00 +0200</pubDate>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
       
       <guid>https://thmwwtm.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://thmwwtm.github.io/tags/software/</link>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://thmwwtm.github.io/tags/tech/</link>
+      <pubDate>Sat, 27 Mar 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -48,24 +75,6 @@
       <pubDate>Mon, 22 Mar 2021 09:02:00 +0200</pubDate>
       
       <guid>https://thmwwtm.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>https://thmwwtm.github.io/tags/software/</link>
-      <pubDate>Mon, 22 Mar 2021 09:02:00 +0200</pubDate>
-      
-      <guid>https://thmwwtm.github.io/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://thmwwtm.github.io/tags/tech/</link>
-      <pubDate>Mon, 22 Mar 2021 09:02:00 +0200</pubDate>
-      
-      <guid>https://thmwwtm.github.io/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -156,6 +165,15 @@
       <pubDate>Fri, 18 Dec 2020 09:02:00 +0200</pubDate>
       
       <guid>https://thmwwtm.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>https://thmwwtm.github.io/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thmwwtm.github.io/tags/ci/cd/</guid>
       <description></description>
     </item>
     
