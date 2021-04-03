@@ -5,7 +5,16 @@
     <link>https://thmwwtm.github.io/</link>
     <description>Recent content on The hungarian man who went to Malta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Mar 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buses and other ways to get around</title>
+      <link>https://thmwwtm.github.io/posts/20210403_public_transport/</link>
+      <pubDate>Sat, 03 Apr 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/posts/20210403_public_transport/</guid>
+      <description>Public transport Aka buses, also some ferries but focus on land for now. You may have heard the legend that buses on Malta are unreliable. I heard that too, but luckily I never experienced it. There are routes with narrow roads there are only a few bus lanes, so in high traffic, the possibility is quite high buses will be jammed. I mostly go on foot, but when I had to go to further localities by bus I was satisfied.</description>
+    </item>
+    
     <item>
       <title>Github actions from zero to this blog</title>
       <link>https://thmwwtm.github.io/posts/20210327_github_actions/</link>
