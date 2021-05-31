@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camera on The hungarian man who went to Malta</title>
+    <link>https://thmwwtm.github.io/tags/camera/</link>
+    <description>Recent content in camera on The hungarian man who went to Malta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 May 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/tags/camera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud security camera with a Raspberry Pi</title>
+      <link>https://thmwwtm.github.io/posts/20210531_pi_cloud_securitycamera/</link>
+      <pubDate>Mon, 31 May 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/posts/20210531_pi_cloud_securitycamera/</guid>
+      <description>Preface, motivation Coming from the middle of Europe I am used to buildings prepared for cold, warm, and burglars. Meaning doors and windows are able to close tightly probably having multiple layers of insulation and other than breaking the glass in the window (what is probably not even close to glass anymore but a quite resistant plastic something).
+Malta situation Construction Then welcome to Malta where buildings are prepared only for the warm.</description>
+    </item>
+    
+  </channel>
+</rss>

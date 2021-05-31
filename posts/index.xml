@@ -5,7 +5,17 @@
     <link>https://thmwwtm.github.io/posts/</link>
     <description>Recent content in Posts on The hungarian man who went to Malta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 May 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 09:02:00 +0200</lastBuildDate><atom:link href="https://thmwwtm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud security camera with a Raspberry Pi</title>
+      <link>https://thmwwtm.github.io/posts/20210531_pi_cloud_securitycamera/</link>
+      <pubDate>Mon, 31 May 2021 09:02:00 +0200</pubDate>
+      
+      <guid>https://thmwwtm.github.io/posts/20210531_pi_cloud_securitycamera/</guid>
+      <description>Preface, motivation Coming from the middle of Europe I am used to buildings prepared for cold, warm, and burglars. Meaning doors and windows are able to close tightly probably having multiple layers of insulation and other than breaking the glass in the window (what is probably not even close to glass anymore but a quite resistant plastic something).
+Malta situation Construction Then welcome to Malta where buildings are prepared only for the warm.</description>
+    </item>
+    
     <item>
       <title>Paperwork, tax number, ssn, Id</title>
       <link>https://thmwwtm.github.io/posts/20210523_paperwork_part_1/</link>
